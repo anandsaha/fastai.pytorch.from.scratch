@@ -34,3 +34,15 @@ The idea is to _not_ use the [fastai](https://github.com/fastai/fastai/tree/mast
 ### Test time techniques
 
 - [ ] Test Time Augmentation (TTA)
+
+
+### Papers
+
+These papers or reading material was suggested either by Jeremy or other participants in various discussions.
+
+* [GDR: Stochastic Gradient Descent with Warm Restarts](https://arxiv.org/abs/1608.03983)
+* [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
+* [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796)
+* [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489)
+* [Using convolutional networks and satellite imagery to identify patterns in urban environments at a large scale](https://arxiv.org/abs/1704.02965)
+* 
