@@ -3,6 +3,13 @@ I am implementing from scratch the tools, techniques and best practices I learnt
 
 The idea is to _not_ use the [fastai](https://github.com/fastai/fastai/tree/master/fastai) library and build everything minimally on PyTorch, to see things happening first hand.
 
+References:
+
+* [The fastai library](https://github.com/fastai/fastai/tree/master/fastai)
+* [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar/)
+* [PyTorch examples](https://github.com/pytorch/examples)
+* [PyTorch tutorials](http://pytorch.org/tutorials/)
+
 
 ### Data Loading
 
@@ -45,4 +52,3 @@ These papers or reading material was suggested either by Jeremy or other partici
 * [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796)
 * [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489)
 * [Using convolutional networks and satellite imagery to identify patterns in urban environments at a large scale](https://arxiv.org/abs/1704.02965)
-* 
