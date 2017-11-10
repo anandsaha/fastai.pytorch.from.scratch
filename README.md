@@ -1,15 +1,16 @@
-# pytorch.model.training
+# fastai.pytorch.from.scratch
 I am implementing from scratch the tools, techniques and best practices I learnt from fast.ai's 2017 offering.
 
-The idea is to _not_ use the [fastai](https://github.com/fastai/fastai/tree/master/fastai) library and build everything minimally on PyTorch, to see things happening first hand.
+The idea is to _not_ use the [fastai](https://github.com/fastai/fastai/tree/master/fastai) library and build everything **minimally** on PyTorch, to see things happening first hand.
 
-References:
+I have referred code from the following sources (the exact source is also mentioned in each file):
 
 * [The fastai library](https://github.com/fastai/fastai/tree/master/fastai)
 * [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar/)
 * [PyTorch examples](https://github.com/pytorch/examples)
 * [PyTorch tutorials](http://pytorch.org/tutorials/)
 
+Code tested on PyTorch v0.2.0, Python 3.6
 
 ### Data Loading
 
