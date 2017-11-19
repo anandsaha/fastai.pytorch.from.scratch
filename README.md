@@ -9,6 +9,7 @@ I have referred code from the following sources (the exact source is also mentio
 * [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar/)
 * [PyTorch examples](https://github.com/pytorch/examples)
 * [PyTorch tutorials](http://pytorch.org/tutorials/)
+* [ahirner/pytorch-retraining](https://github.com/ahirner/pytorch-retraining/blob/master/retrain_benchmark_bees.ipynb)
 
 Code tested on PyTorch v0.2.0, Python 3.6
 

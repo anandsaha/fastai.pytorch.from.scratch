@@ -2,6 +2,11 @@
   <dictionary name="as">
     <words>
       <w>dataset</w>
+      <w>preds</w>
+      <w>pytorch</w>
+      <w>resnet</w>
+      <w>rmsprop</w>
+      <w>torchvision</w>
     </words>
   </dictionary>
 </component>
